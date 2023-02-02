@@ -1,4 +1,4 @@
-## Olá, Eu sou o Murilo, desenvolvedor Front-End iniciante! 👋
+## Murilo, Front-End iniciante! 👋
 
 ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilovieira1&show_icons=true&theme=dracula)
 
